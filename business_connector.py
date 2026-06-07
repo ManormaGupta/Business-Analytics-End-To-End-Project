@@ -5,7 +5,7 @@ mysql
 mydb=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="vaishumanu",
+    password="...",
 )
 mycursor=mydb.cursor()
 print("mysql database connected successfully")
